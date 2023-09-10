@@ -1,2 +1,2 @@
 # FlightLedger
-Blockchain based Air Traffic Control Management platform
+Blockchain based Air Traffic Control platform
